@@ -1,4 +1,23 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+## BOSE landing links
+Link to layout https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1
+
+DEMO LINK https://NYasnaya.github.io/layout_miami/
+
+Link to github https://github.com/NYasnaya/miami_BOSE_landing
+
+## Technologies
+* HTML5
+* SCSS
+* BEM
+* Adaptive layout
+
+* Notebook 1260px
+* Tablet 744
+* Mobile (> 320px)
+
+### Dependencies
+* Node v14.16.1 and higher
+* NPM v6.14.12 and higher
+
+## Troubleshooting and Questions
+For any contributing or problem-solving you could find me in [telegram](https://t.me/NYasnaya) and [email](mailto:yasnodecor@gmail.com)
