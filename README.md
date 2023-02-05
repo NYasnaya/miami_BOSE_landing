@@ -3,8 +3,6 @@ Link to layout https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%
 
 DEMO LINK https://NYasnaya.github.io/layout_miami/
 
-Link to github https://github.com/NYasnaya/miami_BOSE_landing
-
 ## Technologies
 * HTML5
 * SCSS
