@@ -18,4 +18,4 @@ DEMO LINK https://NYasnaya.github.io/layout_miami/
 * NPM v6.14.12 and higher
 
 ## Troubleshooting and Questions
-For any contributing or problem-solving you could find me in [telegram](https://t.me/NYasnaya) and [email](mailto:n.yasnohorska@gmail.com)
+For any contributing or problem-solving you could find me in [telegram](https://t.me/yasnohorska) and [email](mailto:n.yasnohorska@gmail.com)
